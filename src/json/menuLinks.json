@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Home",
+        "link": "Home",
+        "title": "My name is Fredrik Burmester",
+        "description": "Phone: +46 72 505 06 12",
+        "category": "big"
+    },
+    {
+        "id": 2,
+        "name": "Portraits",
+        "link": "Portraits",
+        "title": "",
+        "description": "My favorite portraits",
+        "category": "big"
+    },
+    {
+        "id": 3,
+        "name": "Landscapes",
+        "link": "Landscapes",
+        "title": "",
+        "description": "",
+        "category": "big"
+    },
+    {
+        "id": 4,
+        "name": "break",
+        "link": "",
+        "title": "",
+        "description": "",
+        "category": "break"
+    },
+    {
+        "id": 5,
+        "name": "Husarö",
+        "link": "Husarö",
+        "title": "",
+        "description": "",
+        "category": "small"
+    },
+    {
+        "id": 6,
+        "name": "Norrköping",
+        "link": "Norrköping",
+        "title": "",
+        "description": "",
+        "category": "small"
+    },
+    {
+        "id": 7,
+        "name": "Berlin",
+        "link": "Berlin",
+        "title": "",
+        "description": "",
+        "category": "small"
+    },
+    {
+        "id": 8,
+        "name": "Tanzania",
+        "link": "Tanzania",
+        "title": "",
+        "description": "",
+        "category": "small"
+    },
+    {
+        "id": 9,
+        "name": "break",
+        "link": "",
+        "title": "",
+        "description": "",
+        "category": "break"
+    },
+    {
+        "id": 10,
+        "name": "Krug Bröllop",
+        "link": "Krug",
+        "title": "",
+        "description": "",
+        "category": "small"
+    },
+    {
+        "id": 11,
+        "name": "Fugelstad Bröllop",
+        "link": "Fugelstad",
+        "title": "",
+        "description": "",
+        "category": "small"
+    },
+    {
+        "id": 12,
+        "name": "Pets",
+        "link": "Pets",
+        "title": "",
+        "description": "",
+        "category": "small"
+    }
+]
